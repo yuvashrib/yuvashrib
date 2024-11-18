@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 I am Yuvashri Bhanuprakash, a passionate Data Analyst with a Master’s degree in Data Science.I specialize in SQL, Python, ETL processes, and uncovering insights from data and delivering actionable solutions through advanced analytical techniques.
 Here, you'll find an array of projects and demonstrations that highlight my expertise in data analysis, machine learning, and business intelligence.
 
@@ -44,4 +44,10 @@ Here, you'll find an array of projects and demonstrations that highlight my expe
 4. **PwC Switzerland Power BI Simulation**  
    🛠️ **Tools**: Power BI  
    - Created dashboards and KPIs to support executive decision-making and provide data-driven solutions to HR challenges.
+     
+5. **Accenture Data Analytics and Visualization**  
+   🛠️ **Tools**: MS Excel 
+   - Cleaned, modelled, and analysed 7 datasets to provide insights on content trends for strategic decision-making.
+   - Delivered key findings through a PowerPoint deck and video presentation for client and internal stakeholders.
 
+Stay tuned for more projects and updates!
