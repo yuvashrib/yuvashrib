@@ -41,5 +41,10 @@ Here, you'll find an array of projects and demonstrations that highlight my expe
    🛠️ **Tools**: Power BI  
    - Created dashboards and KPIs to support executive decision-making and provide data-driven solutions to HR challenges.
      
+4. **Cyber Intrusion Detection**  
+   🛠️ **Tools**: Python, TensorFlow, Keras
+   - Developed deep learning models (Feedforward NN, LSTM, Autoencoder) for intrusion detection using the KDD Cup 1999 dataset.
+   - Supports real-time classification and is designed for performance upgrades.
+     
 
 Stay tuned for more projects and updates!
