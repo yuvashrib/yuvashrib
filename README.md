@@ -19,7 +19,6 @@ Here, you'll find an array of projects and demonstrations that highlight my expe
 - 📊 **Tableau**
 - 📈 **Power BI**
 - 🤖 **Machine Learning**: Classical ML techniques, 🧠 **Deep Learning** (CNNs)
-- 🔄 **Data Engineering**: ETL processes, ☁️ **Azure Data Factory**, 🏎️ **Databricks**
 - 📉 **Visualization**: Power BI, Tableau, 📊 **matplotlib**, 📉 **seaborn**
 
 ### Certifications
