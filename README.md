@@ -45,5 +45,11 @@ Here, you'll find an array of projects and demonstrations that highlight my expe
    - Developed deep learning models (Feedforward NN, LSTM, Autoencoder) for intrusion detection using the KDD Cup 1999 dataset.
    - Supports real-time classification and is designed for performance upgrades.
      
+5. **Student Recommendation System**  
+   🛠️ **Tools**: Python, Flask, pandas, curl commands, Docker (optional)
+   - Fetches data from APIs, cleans, transforms, and analyzes performance metrics.
+   - Provides interactive insights using Matplotlib and allows users to upload quiz data for analysis.
+   - Install dependencies, run the Flask app, and test the API using curl or Postman for study recommendations.
+     
 
 Stay tuned for more projects and updates!
