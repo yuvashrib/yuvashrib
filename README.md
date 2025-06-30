@@ -16,10 +16,9 @@ Here, you'll find an array of projects and demonstrations that highlight my expe
 ### Technical
 - 🛢️ **SQL**
 - 🐍 **Python** (🐼 **pandas**, 🤖 **Sklearn**, 🧠 **Keras**)
-- 📊 **Tableau**
-- 📈 **Power BI**
+- 📊 **Visualization**: Power BI, Tableau, 📊 **matplotlib**, 📉 **seaborn**
 - 🤖 **Machine Learning**: Classical ML techniques, 🧠 **Deep Learning** (CNNs)
-- 📉 **Visualization**: Power BI, Tableau, 📊 **matplotlib**, 📉 **seaborn**
+- ☁️ **Cloud Platforms**: Azure Data Factory, Databricks, Google Colab
 
 ### Certifications
 - 🏅 **Oracle Cloud Platform Application Integration 2021 Certified Specialist**
